@@ -11,6 +11,7 @@ variables:
   modules:
     bootcamp:
       # Variables shared by modules
+      pause_transformations: false
       icapi_ds_external_id: ds_icapi
       icapi_space_name: icapi_dm_space
 
